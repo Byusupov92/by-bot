@@ -18,12 +18,12 @@ products = {
     },
     "2": {
         "name": "Luminous Dinosaurs",
-        "price": "95 000 сум",
+        "price": "145 000 сум",
         "photo": "https://images.uzum.uz/d4a0gk5sp2tr82i3ufng/t_product_540_high.jpg",
     },
     "3": {
         "name": "Dino Park",
-        "price": "95 000 сум",
+        "price": "110 000 сум",
         "photo": "https://images.uzum.uz/d5fudkbtqdhodfdkl0rg/t_product_540_high.jpg",
     },
 }
